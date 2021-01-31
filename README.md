@@ -10,5 +10,5 @@
 | **fastify**             | JavaScript | 3.11.0  | 42296      | **20**  | **7.58**      |
 | fiber                   | Go         | 3.3.2   | 41212      | 23      | 5.31          |
 | express                 | JavaScript | 4.17.1  | 9237       | 106     | 2.20          |
-| flask (waitress)        | Python     | 2.3.3   | 3926       | 245     | 0.57          |
+| flask (waitress)        | Python     | 1.1.2   | 3926       | 245     | 0.57          |
 | flask                   | Python     | 1.1.2   | 1518       | 64      | 0.25          |
