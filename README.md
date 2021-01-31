@@ -6,8 +6,8 @@
 
 |                         | Language   | Version | Requests/s | Latency | Throughput/Mb |
 | :--                     | --:        | --:     | :-:        | --:     | --:           |
-| actix                   | Rust       | 3.3.2   | 47395      | 22      | 4.17          |
-| fastify                 | JavaScript | 3.11.0  | 42926      | 20      | 7.58          |
+| actix                   | Rust       | 3.3.2   | 50601      | 19      | 4.45          |
+| fastify                 | JavaScript | 3.11.0  | 42926      | 23      | 7.58          |
 | fiber                   | Go         | 3.3.2   | 41212      | 23      | 5.31          |
 | express                 | JavaScript | 4.17.1  | 9237       | 106     | 2.20          |
 | flask (waitress)        | Python     | 1.1.2   | 3926       | 245     | 0.57          |
