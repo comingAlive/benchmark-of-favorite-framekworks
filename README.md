@@ -7,9 +7,9 @@
 |                         | Language   | Version | Requests/s | Latency | Throughput/Mb |
 | :--                     | --:        | --:     | :-:        | --:     | --:           |
 | nanoexpress             | JavaScript | 5.0.6   | 53008      | 19      | 2.91          |
-| actix                   | Rust       | 3.3.2   | 50601      | 19      | 4.45          |
+| actix                   | Rust       | 4.0.0   | 46601      | 21      | 5.97          |
 | gin                     | Go         | 1.7.2   | 41801      | 24      | 5.35          |
-| fastify                 | JavaScript | 3.18.0  | 37243      | 26      | 6.55          |
 | rocket                  | Rust       | 1.0.0   | 39593      | 25      | 9.82          |
+| fastify                 | JavaScript | 3.18.0  | 37243      | 26      | 6.55          |
 | express                 | JavaScript | 4.17.1  | 9594       | 102     | 2.29          |
 | flask (waitress)        | Python     | 1.1.2   | 3926       | 245     | 0.57          |
